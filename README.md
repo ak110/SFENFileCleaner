@@ -1,5 +1,6 @@
 SFENFileCleaner
 ===============
+[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
 
 1行毎に1つのsfenが記述されたファイルについて、ソートと重複の削除を行うコマンドラインツール。
 
